@@ -7,3 +7,5 @@ kheer
 cake
 chicken
 burger
+
+pasta
